@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(231, 224, 240);
+}
+
+.titelpagina{
+    font-size: 40px;
+}
+p{
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: rgb(50, 29, 51);
+}
+.school{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    
+}
+.klas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;   
+    font-weight: lighter;
+}
+
+.keuzevak{
+    color: rgb(50, 29, 51);
+    font-weight: lighter;
+  
+}
+
+
+.foto{
+    position: relative;
+    margin-left: 230px;
+    top: 20px;
+}
+
+header {
+    color: #ffffff;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.header2{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+    
+.reflectie{
+    margin-left: 570px;
+    margin-top: -400px;
+    color: white;
+
+}
+
+.header3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.actiepunten{
+    margin-left: 570px;
+    margin-top: 70px;
+    color: white;
+}
+
+.header4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.maken{
+   margin-left: 570px;
+    margin-top: 180px;
+    color: white; 
+}
+.foto1{
+    margin-top: 50px;
+    margin-left: 510px;
+}
+
+.foto2{
+    margin-top: -20px;
+    margin-left: 510px;
+}
+
+.foto3{
+    margin-top: -20px;
+    margin-left: 510px;
+}
